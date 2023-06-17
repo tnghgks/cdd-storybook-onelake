@@ -35,6 +35,7 @@
     "storybook": "^7.0.21"
   },
   "dependencies": {
+    "@storybook/react-webpack5": "^7.0.21",
     "styled-components": "^5.3.10"
   },
   "peerDependencies": {
